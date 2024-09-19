@@ -1,6 +1,6 @@
 <h1> Road-Safety-Pulse-Accident-Trends </h1> 
 
-![Coffeehouse Sales Trends](https://github.com/himanshu-pathak12/Road-Safety-Pulse-Accident-Trends/blob/main/Dashboard.png)
+![Road Accident Trends](https://github.com/himanshu-pathak12/Road-Safety-Pulse-Accident-Trends/blob/main/Dashboard.png)
 
 ## **Project Description -** 
 
